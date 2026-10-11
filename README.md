@@ -1,3 +1,8 @@
+<!-- TARAYICIDA_CEVRIMDISI_SURUM -->
+**[TARAYICIDA CALISAN SURUMU AC](https://rusebound.github.io/OCR-Chrome-Edge/)** - Kurulumsuz, belgeyi sunucuya yuklemeden calisir. Bu web surumu Windows EXE motorunun tum ozelliklerine esdeger degildir. Ayrintilar: [Gizlilik ve Sinirlar](docs/GIZLILIK_VE_SINIRLAR.md).
+Web kaynak kodu: [web-src](web-src/). GitHub Pages yayinindan once ve sonra kurum BT politikaniza uyun.
+<!-- /TARAYICIDA_CEVRIMDISI_SURUM -->
+
 # OCR — Chrome ve Edge için Türkçe Metin Tanıma
 
 **Yayıncı: DEMİRHAN ÖZDEMİR** · **Arayüz ve belgeler: Türkçe** · **Sürüm: 1.2.0** · **Platform: Google Chrome / Microsoft Edge**
